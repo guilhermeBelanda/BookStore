@@ -2,9 +2,12 @@
 Esta é a aplicação backend responsável por gerenciar os dados e a lógica de negócios de um sistema de Biblioteca. Desenvolvido com Java e o framework Spring Boot, o projeto expõe uma API que possa consultar, cadastrar e deletar os itens existentes.
 
 🚀 Tecnologias Utilizadas
-Linguagem: Java/b
+Linguagem: Java
+
 Framework: Spring Boot
+
 Gestor de Dependências: Maven
+
 Banco de Dados: PostgreSQL
 
 ✨ Funcionalidades Principais
